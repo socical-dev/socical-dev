@@ -95,10 +95,3 @@
 
 <br />
 
-## 💁‍♂️ 프로젝트 팀원
-|Role|Contributor|
-|:---:|:---:|
-| Backend | ![](https://github.com/example-profile.png?size=120) |
-| Android | ![](https://github.com/example-android.png?size=120) |
-| [정근영](https://github.com/example-profile) | [기타 팀원](https://github.com/example-android) |
-
