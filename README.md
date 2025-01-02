@@ -1,73 +1,104 @@
-<div class="container">
-        <h2>📄 README 사용 방법</h2>
-        <p>이 코드는 GitHub README 파일로 사용할 HTML 코드입니다. 그대로 GitHub에 업로드할 경우 HTML 코드가 그대로 표시되므로, 아래 방법 중 하나를 따르세요:</p>
-        <ul>
-            <li>Markdown 형식으로 변환해 사용</li>
-            <li>HTML 코드를 미리보기로 활용해 GitHub Pages 등에 게시</li>
-        </ul>
+<div align="center">
 
-        <h2>🛠 기술 스택</h2>
-        <h3>백엔드</h3>
-        <div class="tech-tags">
-            <span>Python</span>
-            <span>Flask</span>
-            <span>Django</span>
-            <span>FastAPI</span>
-            <span>PostgreSQL</span>
-            <span>MySQL</span>
-            <span>AWS</span>
-            <span>클라우드 아키텍처</span>
-        </div>
+<!-- logo -->
+<img src="https://user-images.githubusercontent.com/80824750/208554611-f8277015-12e8-48d2-b2cc-d09d67f03c02.png" width="400"/>
 
-        <h3>안드로이드 (서포트)</h3>
-        <div class="tech-tags">
-            <span>Kotlin</span>
-            <span>Java</span>
-            <span>MVVM</span>
-            <span>MVP</span>
-            <span>Coroutine</span>
-            <span>Hilt</span>
-            <span>Firebase</span>
-            <span>ExoPlayer</span>
-        </div>
+### Back-end Git README Template ✅
 
-        <h2>🔥 주요 프로젝트</h2>
-        <div class="project">
-            <h3>1. API 기반 백엔드 서비스 개발 (개인 프로젝트)</h3>
-            <ul>
-                <li>Python 및 Flask를 이용한 간단한 RESTful API 구현</li>
-                <li>데이터베이스 설계 및 SQLAlchemy를 사용한 데이터 관리</li>
-                <li>Docker를 활용한 배포 환경 구성 (진행 중)</li>
-            </ul>
-        </div>
+[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.1-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
+<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2023.01.01~현재-green?style=flat&logo=&logoColor=white" />]()
 
-        <div class="project">
-            <h3>2. 스포츠 앱 개발 (Android)</h3>
-            <ul>
-                <li>Media3 ExoPlayer를 활용한 동영상 플레이어 최적화</li>
-                <li>Naver Map SDK와 Firebase를 사용해 사용자 편의성 강화</li>
-                <li>150,000명 이상의 사용자 관리 및 앱 안정성 개선</li>
-            </ul>
-        </div>
+</div> 
 
-        <div class="project">
-            <h3>3. 골프 예약 키오스크 개발 (Android)</h3>
-            <ul>
-                <li>MVVM 아키텍처 및 Coroutine 기반 비동기 처리 구현</li>
-                <li>POS 시스템 연동 및 키오스크 모드 설정을 통한 편의성 극대화</li>
-            </ul>
-        </div>
+## 📝 소개
+저는 안드로이드 개발 경험을 기반으로 **백엔드 개발자로 전환**을 준비하고 있는 정근영입니다. Python과 Flask, Django, FastAPI 등의 기술을 학습하며, 클라우드 아키텍처와 DevOps 기술에 대한 이해를 높이고 있습니다. 안드로이드 플랫폼 리드 경험을 활용해 백엔드와 프론트엔드 간 효율적인 통합 및 협업을 지향합니다.
 
-        <h2>✨ 현재 목표</h2>
-        <ul>
-            <li>Python 및 Flask/Django/FastAPI를 활용한 백엔드 서비스 개발</li>
-            <li>클라우드 플랫폼(AWS) 및 DevOps 기술 이해와 실습</li>
-            <li>기존 Android 개발 경험을 활용해 백엔드와의 통합 및 협업 강화</li>
-        </ul>
+다음과 같은 내용을 작성할 수 있습니다:
+- 프로젝트 소개
+- 프로젝트 화면 구성 또는 프로토타입
+- 프로젝트 API 설계
+- 사용한 기술 스택
+- 프로젝트 아키텍처
+- 기술적 이슈와 해결 과정
+- 프로젝트 팀원
 
-        <div class="contact">
-            <h2>📫 연락처</h2>
-            <p>이메일: <a href="mailto:socical.dev@gmail.com">socical.dev@gmail.com</a></p>
-            <p>GitHub: <a href="https://github.com/yourgithubprofile">GitHub 프로필</a></p>
-        </div>
-    </div>
+<br />
+
+> 화면 구성과 프로토타입 중 원하는 것을 사용해주세요.
+
+### 화면 구성
+|Screen #1|Screen #2|
+|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="400"/>|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="400"/>|
+
+### 프로토타입
+<img src="https://user-images.githubusercontent.com/80824750/208454673-0449e49c-57c6-4a6b-86cf-66c5b1e623dc.png">
+
+<br />
+
+## 🗂️ APIs
+작성한 API는 아래에서 확인할 수 있습니다.
+
+👉🏻 [API 바로보기](/backend/APIs.md)
+
+
+<br />
+
+## ⚙ 기술 스택
+> skills 폴더에 있는 아이콘을 이용할 수 있습니다.
+
+### Back-end
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Python.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Flask.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Django.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/FastAPI.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/PostgreSQL.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/MySQL.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/AWS.png?raw=true" width="80">
+</div>
+
+### Android (서포트)
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Kotlin.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/MVVM.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Firebase.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/ExoPlayer.png?raw=true" width="80">
+</div>
+
+### Infra
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/AWSEC2.png?raw=true" width="80">
+</div>
+
+### Tools
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
+</div>
+
+<br />
+
+## 🛠️ 프로젝트 아키텍처
+![no-image](https://user-images.githubusercontent.com/80824750/208294567-738dd273-e137-4bbf-8307-aff64258fe03.png)
+
+<br />
+
+## 🤔 기술적 이슈와 해결 과정
+- Python으로 RESTful API 설계 및 구현 중 발생한 성능 최적화 문제
+    - [성능 개선 사례 블로그 링크](https://velog.io/@example/Python-API-Optimization)
+- Docker 컨테이너 구성 시 생긴 네트워크 문제 해결 경험
+    - [Docker 네트워크 문제 해결 과정](https://velog.io/@example/Docker-Networking)
+- AWS EC2와 S3를 활용한 애플리케이션 배포 경험
+    - [AWS 배포 사례](https://velog.io/@example/AWS-Deployment)
+
+<br />
+
+## 💁‍♂️ 프로젝트 팀원
+|Role|Contributor|
+|:---:|:---:|
+| Backend | ![](https://github.com/example-profile.png?size=120) |
+| Android | ![](https://github.com/example-android.png?size=120) |
+| [정근영](https://github.com/example-profile) | [기타 팀원](https://github.com/example-android) |
+
