@@ -1,15 +1,3 @@
-<div align="center">
-
-<!-- logo -->
-<img src="https://user-images.githubusercontent.com/80824750/208554611-f8277015-12e8-48d2-b2cc-d09d67f03c02.png" width="400"/>
-
-### GeunYeong Jung's GitHub README Template ✅
-
-[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v1.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2023.01.01~현재-green?style=flat&logo=&logoColor=white" />]()
-
-</div> 
-
 ## 📝 소개
 안녕하세요! 저는 **Android 플랫폼 리드 경험**을 기반으로 **백엔드 개발자로 전환**을 준비하고 있는 정근영입니다.  
 **Python**, **Flask**, **Django**, **FastAPI** 등의 기술을 학습하며, AWS와 같은 클라우드 아키텍처에 대한 이해를 넓히고 있습니다.  
@@ -49,18 +37,9 @@
 ---
 
 ## 🛠️ 주요 프로젝트
-
-### 1. API 기반 백엔드 서비스 개발 (개인 프로젝트)
-- **Python** 및 **Flask**를 활용한 RESTful API 설계 및 개발
-- Docker 컨테이너를 사용한 배포 환경 구축
-- PostgreSQL 데이터베이스와 SQLAlchemy를 사용한 효율적인 데이터 처리
-
 ### 2. 스포츠 앱 개발 (Android)
 - ExoPlayer를 활용한 동영상 플레이어 최적화
 - Firebase와 Naver Map SDK로 사용자 편의성 강화
-
-### 3. AWS 기반 백엔드 애플리케이션
-- AWS S3 및 EC2를 활용한 애플리케이션 배포 및 클라우드 인프라 구축
 
 ---
 <!-- 
@@ -77,5 +56,6 @@
 -->
 
 ## 💬 문의
-- GitHub: [정근영 GitHub](https://github.com/yourgithubprofile)  
+- GitHub: [정근영 GitHub](https://github.com/socical-dev)
+- Blog: [기술블로그](https://velog.io/@socical/posts)
 - Email: [socical.dev@gmail.com](mailto:socical.dev@gmail.com)
