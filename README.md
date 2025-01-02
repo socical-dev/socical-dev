@@ -1,56 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>정근영 GitHub README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f9;
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 1rem;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #0056b3;
-        }
-        .tech-tags span {
-            display: inline-block;
-            background: #e3f2fd;
-            color: #0056b3;
-            padding: 0.2rem 0.5rem;
-            margin: 0.2rem;
-            border-radius: 4px;
-            font-size: 0.9rem;
-        }
-        .project {
-            margin-bottom: 1.5rem;
-        }
-        a {
-            color: #0056b3;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .contact {
-            margin-top: 2rem;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
+<div class="container">
         <h2>📄 README 사용 방법</h2>
         <p>이 코드는 GitHub README 파일로 사용할 HTML 코드입니다. 그대로 GitHub에 업로드할 경우 HTML 코드가 그대로 표시되므로, 아래 방법 중 하나를 따르세요:</p>
         <ul>
@@ -123,5 +71,3 @@
             <p>GitHub: <a href="https://github.com/yourgithubprofile">GitHub 프로필</a></p>
         </div>
     </div>
-</body>
-</html>
