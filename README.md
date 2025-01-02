@@ -1,36 +1,65 @@
-<div align= "center">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Socical-dev's%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
-   </div>
-   <div style="text-align: left;"> 
-   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-   </div>
-   <div style="text-align: left;">
-   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-   <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
-         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-         <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-         <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-         <br/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-         </div>
-   </div>
-   <div style="text-align: left;">
-   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-   <div style="text-align: left;"> <a href=https://velog.io/@socical/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@socical/posts"> </a>
-        <a href=mailto:socical.dev@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:socical.dev@gmail.com"> </a>
-         </div>  <br> 
-   <div style="text-align: left;">  </div> 
-   </div>
-   <div style="text-align: left;"> 
-   <h2 style="border-bottom: 1px solid #; color: #282d33;"> 🏅 Stats </h2> 
-       <div style="text-align: left;"> 
-             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSH1214&layout=compact&hide=javascript,css,scss&langs_count=8"/>
-<img src=https://github-readme-stats.vercel.app/api?username=YSH1214&show_icons=true
-         /> </div> 
-   </div>
+    <h2>🛠 기술 스택</h2>
+    <h3>백엔드</h3>
+    <div class="tech-tags">
+        <span>Python</span>
+        <span>Flask</span>
+        <span>Django</span>
+        <span>FastAPI</span>
+        <span>PostgreSQL</span>
+        <span>MySQL</span>
+        <span>AWS</span>
+        <span>클라우드 아키텍처</span>
+    </div>
+
+    <h3>안드로이드 (서포트)</h3>
+    <div class="tech-tags">
+        <span>Kotlin</span>
+        <span>Java</span>
+        <span>MVVM</span>
+        <span>MVP</span>
+        <span>Coroutine</span>
+        <span>Hilt</span>
+        <span>Firebase</span>
+        <span>ExoPlayer</span>
+    </div>
+
+    <h2>🔥 주요 프로젝트</h2>
+    <div class="project">
+        <h3>1. API 기반 백엔드 서비스 개발 (개인 프로젝트)</h3>
+        <ul>
+            <li>Python 및 Flask를 이용한 간단한 RESTful API 구현</li>
+            <li>데이터베이스 설계 및 SQLAlchemy를 사용한 데이터 관리</li>
+            <li>Docker를 활용한 배포 환경 구성 (진행 중)</li>
+        </ul>
+    </div>
+
+    <div class="project">
+        <h3>2. 스포츠 앱 개발 (Android)</h3>
+        <ul>
+            <li>Media3 ExoPlayer를 활용한 동영상 플레이어 최적화</li>
+            <li>Naver Map SDK와 Firebase를 사용해 사용자 편의성 강화</li>
+            <li>150,000명 이상의 사용자 관리 및 앱 안정성 개선</li>
+        </ul>
+    </div>
+
+    <div class="project">
+        <h3>3. 골프 예약 키오스크 개발 (Android)</h3>
+        <ul>
+            <li>MVVM 아키텍처 및 Coroutine 기반 비동기 처리 구현</li>
+            <li>POS 시스템 연동 및 키오스크 모드 설정을 통한 편의성 극대화</li>
+        </ul>
+    </div>
+
+    <h2>✨ 현재 목표</h2>
+    <ul>
+        <li>Python 및 Flask/Django/FastAPI를 활용한 백엔드 서비스 개발</li>
+        <li>클라우드 플랫폼(AWS) 및 DevOps 기술 이해와 실습</li>
+        <li>기존 Android 개발 경험을 활용해 백엔드와의 통합 및 협업 강화</li>
+    </ul>
+
+    <div class="contact">
+        <h2>📫 연락처</h2>
+        <p>이메일: <a href="mailto:socical.dev@gmail.com">socical.dev@gmail.com</a></p>
+        <p>GitHub: <a href="https://github.com/yourgithubprofile">GitHub 프로필</a></p>
+    </div>
+</div>
