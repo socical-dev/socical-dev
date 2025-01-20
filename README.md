@@ -55,6 +55,8 @@
 ---
 -->
 
+[![socical's GitHub stats](https://github-readme-stats.vercel.app/api?username=socical-dev&include_all_commits=true&show_icons=true&theme=moltack)](https://github.com/socical-dev/github-readme-stats)
+
 ## 💬 문의
 - GitHub: [정근영 GitHub](https://github.com/socical-dev)
 - Blog: [기술블로그](https://velog.io/@socical/posts)
