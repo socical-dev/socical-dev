@@ -1,5 +1,5 @@
 ## 📝 소개
-안녕하세요! 저는 **Android 플랫폼 리드 경험**을 기반으로 **백엔드 개발자로 전환**을 준비하고 있는 정근영입니다.  
+안녕하세요! 저는 **Android 플랫폼 리드 경험**을 기반인 **백엔드 개발자** 정근영(GeunYeong Jung)입니다.  
 **Python**, **Flask**, **Django**, **FastAPI** 등의 기술을 학습하며, AWS와 같은 클라우드 아키텍처에 대한 이해를 넓히고 있습니다.  
 안정적이고 확장 가능한 **백엔드 서비스 개발**과, **안드로이드 플랫폼과의 효율적인 통합**에 관심이 많습니다.  
 
@@ -55,9 +55,6 @@
 ---
 -->
 
-[![socical's GitHub stats](https://github-readme-stats.vercel.app/api?username=socical-dev&include_all_commits=true&show_icons=true&theme=moltack)](https://github.com/socical-dev/github-readme-stats)
-
 ## 💬 문의
-- GitHub: [정근영 GitHub](https://github.com/socical-dev)
 - Blog: [기술블로그](https://velog.io/@socical/posts)
 - Email: [socical.dev@gmail.com](mailto:socical.dev@gmail.com)
