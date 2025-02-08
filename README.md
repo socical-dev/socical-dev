@@ -36,10 +36,9 @@
 
 ---
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=socical)](https://solved.ac/socical)
+[![백준](http://mazassumnida.wtf/api/mini/generate_badge?boj=socical)](https://solved.ac/socical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=socical)](https://solved.ac/socical/)
+[![백준](http://mazassumnida.wtf/api/v2/generate_badge?boj=socical)](https://solved.ac/socical/)
 
 ---
 
