@@ -36,6 +36,10 @@
 
 ---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=socical)](https://solved.ac/socical/)
+
+---
+
 ## 🛠️ 주요 프로젝트
 ### 2. 스포츠 앱 개발 (Android)
 - ExoPlayer를 활용한 동영상 플레이어 최적화
