@@ -39,13 +39,6 @@
 [![백준](http://mazassumnida.wtf/api/v2/generate_badge?boj=socical)](https://solved.ac/socical/)
 
 ---
-
-## 🛠️ 주요 프로젝트
-### 2. 스포츠 앱 개발 (Android)
-- ExoPlayer를 활용한 동영상 플레이어 최적화
-- Firebase와 Naver Map SDK로 사용자 편의성 강화
-
----
 <!-- 
 ## 🤔 기술적 이슈와 해결 과정
 1. **Python API 성능 최적화**  
